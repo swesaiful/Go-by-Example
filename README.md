@@ -1,4 +1,4 @@
-# Go By Example, done by me
+# Go By Example
 
 This repository contains only GO example done by me.
 
